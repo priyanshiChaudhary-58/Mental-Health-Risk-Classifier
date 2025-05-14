@@ -61,4 +61,4 @@ This project uses machine learning to classify students into **Low**, **Medium**
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn joblib
-python mental_health_classifier.py
+python Mental-Health-Risk-Classifier.py
