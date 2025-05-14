@@ -30,9 +30,9 @@ This project uses machine learning to classify students into **Low**, **Medium**
 
 ## 🤖 Models Used
 
-- Logistic Regression – Baseline
+- Logistic Regression – Best performing (💯 Accuracy: 71.43%, Precision: 80.45%)
 - Decision Tree – Easy interpretability
-- Random Forest – Best performing (💯 Accuracy: 91.7%, Precision: 90.9%)
+- Random Forest – Best performing (💯 Accuracy: 71.43%, Precision: 80.45%)
 
 ---
 
